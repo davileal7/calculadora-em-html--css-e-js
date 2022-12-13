@@ -22,3 +22,5 @@ function calcular(){
         document.getElementById('resultado').innerHTML = "Empty"
     }
 }
+
+//eval 
